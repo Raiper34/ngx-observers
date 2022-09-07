@@ -1,4 +1,9 @@
 # Ngx observers
+[![npm version](https://badge.fury.io/js/ngx-observers.svg)](https://badge.fury.io/js/ngx-observers)
+[![GitHub issues](https://img.shields.io/github/issues/Raiper34/ngx-observers)](https://github.com/Raiper34/ngx-observers/issues)
+![npm bundle size](https://img.shields.io/bundlephobia/min/ngx-observers)
+![NPM](https://img.shields.io/npm/l/ngx-observers)
+[![docs](https://badgen.net/badge/docs/online/orange)](https://ngx-observers.netlify.app)
 
 Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
 
