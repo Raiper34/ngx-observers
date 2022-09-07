@@ -48,7 +48,7 @@
   "copyFiles": [
     {
       "from": "README.md",
-      "to": "dist/ngx-focus-control/README.md"
+      "to": "dist/ngx-observers/README.md"
     }
   ],
   "compodoc": {
