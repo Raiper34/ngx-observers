@@ -44,7 +44,7 @@ You can access directive original observer object (e.g. `this.obsResize.observer
 ```
 
 # Documentation
-See http://www.ngx-observers.netlify.com
+See [online](https://ngx-observers.netlify.app/modules/ngxobserversmodule)
 
 # License
 MIT
