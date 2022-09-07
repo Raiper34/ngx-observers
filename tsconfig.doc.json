@@ -1,0 +1,4 @@
+{
+  "include": ["projects/ngx-observers/src/**/*.ts"],
+  "exclude": ["projects/ngx-observers/src/test.ts", "projects/ngx-observers/src/**/*.spec.ts"]
+}
