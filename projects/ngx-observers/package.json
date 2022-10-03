@@ -1,6 +1,6 @@
 {
   "name": "ngx-observers",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.",
   "repository": "https://github.com/Raiper34/ngx-observers",
   "homepage": "https://ngx-observers.netlify.app/",
