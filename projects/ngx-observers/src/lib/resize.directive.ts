@@ -12,7 +12,7 @@ import {Directive, ElementRef, EventEmitter, Input, OnDestroy, OnInit, Output} f
  */
 @Directive({
   selector: '[obsResize]',
-  exportAs: 'obsResize'
+  exportAs: 'directive'
 })
 export class ResizeDirective implements OnInit, OnDestroy {
 
