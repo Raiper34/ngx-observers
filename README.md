@@ -9,7 +9,7 @@
 Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
 
 ## Version compatibility
-| Angular version | Ngx focus control version |
+| Angular version | Ngx observers version |
 |-----------------|---------------------------|
 | 12, 13          | 0.0.0 - 1.x.x             |
 | 14              | 2.x.x                     |
